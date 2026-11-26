@@ -16,7 +16,7 @@ pipeline {
         DEPLOYMENT_SERVER_IP = '15.207.110.198'
 
         // GitHub Configuration
-        GITHUB_REPOSITORY_URL = 'https://github.com/sreenandads1-oss/company-website.git'
+        GITHUB_REPOSITORY_URL = 'https://github.com/sreenandads1-oss/Company-website.git'
 
         // Application Configuration
         APP_NAME = 'company-website'
