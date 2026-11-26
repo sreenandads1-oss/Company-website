@@ -10,7 +10,7 @@ pipeline {
         // DockerHub Configuration
         DOCKERHUB_USERNAME = 'sreenandads'
         DOCKERHUB_REPOSITORY = 'company-website'
-        DOCKERHUB_CREDENTIAL_ID = 'dockerhub-credentials'
+        DOCKERHUB_CREDENTIAL_ID = 'dockerhub_credentials'
 
         // Deployment Server
         DEPLOYMENT_SERVER_IP = '15.207.110.198'
